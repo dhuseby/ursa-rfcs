@@ -99,7 +99,7 @@ is that sometimes it isn't obvious what the interdependencies are between
 different configuration options. It often makes options unavailable without
 telling the user exactly what has to be enabled to make them available.
 
-![Linux Kernel Menuconfig](0000-ursa-build/menuconfig.gif "Linux Kernel Menuconfig")
+![Linux Kernel Menuconfig](0000-ursa-config/menuconfig.gif "Linux Kernel Menuconfig")
 
 # Unresolved questions
 [unresolved]: #unresolved-questions
